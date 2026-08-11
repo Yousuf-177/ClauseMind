@@ -44,7 +44,6 @@ Legal_Assistant/
 ├── config/             # Centralized configuration
 ├── data/raw/           # Test corpus (legal documents)
 ├── docs/               # Project documentation
-├── guide/              # Phase-by-phase implementation guides
 ├── scripts/            # Utility scripts
 └── tests/              # Unit and integration tests
 ```
